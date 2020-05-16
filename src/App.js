@@ -16,7 +16,7 @@ function App() {
 					</p>
           <div>
             <a href="https://amin-bash.github.io/Ball-Game/"  target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-              See project
+              Play The Game
             </a>
             <a href="https://github.com/amin-bash/Ball-Game"  target="_blank" rel="noopener noreferrer" className="btn btn-primary ml-2">
               Go to Gihub
@@ -35,7 +35,7 @@ function App() {
 					</p>
           <div>
             <a href="https://amin-bash.github.io/Boxes-Game/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">
-              See project
+              Play The Game
             </a>
             <a href="https://github.com/amin-bash/Boxes-Game" target="_blank" rel="noopener noreferrer" className="btn btn-primary ml-2">
               Go to Gihub
